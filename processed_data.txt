@@ -1,0 +1,3 @@
+Mean_Temperature: 24.20
+Mean_Wind_Speed: 14.40
+Mean_Visibility: 5.00
